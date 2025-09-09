@@ -1,3 +1,4 @@
 .vscode
 step.txt
 dist/
+.DS_Store
